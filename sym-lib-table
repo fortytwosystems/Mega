@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "Mega-rescue")(type "Legacy")(uri "${KIPRJMOD}/Mega-rescue.lib")(options "")(descr ""))
+  (lib (name Mega-rescue)(type Legacy)(uri ${KIPRJMOD}/Mega-rescue.lib)(options "")(descr ""))
+  (lib (name FortyTwoLabs)(type Legacy)(uri C:/Users/david/src/steezeman/fortytwosystems/KiCAD-libs/FortyTwoLabs.lib)(options "")(descr ""))
 )
